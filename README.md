@@ -1,3 +1,3 @@
 ---
-permalink: /Assignment1/index.html
+permalink: Assignment1/index.html
 ---
