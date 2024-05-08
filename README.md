@@ -1,1 +1,3 @@
-# Coursera-AngularJS-Vijay
+---
+permalink: /index.html
+---
