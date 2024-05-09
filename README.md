@@ -1,1 +1,1 @@
-# Coursera-AngularJS-Vijay
+# Coursera-Assignment1-Vijay
