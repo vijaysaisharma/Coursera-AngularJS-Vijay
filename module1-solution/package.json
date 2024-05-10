@@ -1,12 +1,0 @@
-{
-    
-"dependencies": {
-    
-    
-"browser-sync": "^3.0.2",
-    
-    
-"http-server": "^14.1.1"
-    
-}
-}
